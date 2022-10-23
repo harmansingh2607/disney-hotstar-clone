@@ -1,0 +1,20 @@
+{
+    "auth":{
+        "ErrorMessage":"",
+        "loading":false
+        
+    },
+    "currUser":{
+        "name":"",
+        "profile":""
+    },
+
+    "movies":{
+        "recommends": [],
+        "newDisneys": [],
+        "originals": [],
+        "trending": []
+    }
+    
+    
+}
